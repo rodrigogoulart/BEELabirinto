@@ -24,7 +24,6 @@ public class ExemploGrafo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Nodo raiz = new Nodo(null, "raiz");
 		Vector<Nodo> nivelUm = new Vector<Nodo>();
